@@ -1,0 +1,5 @@
+Nama 	: M. Irsyad
+Nim	: 191011402916
+Kelas	: 06TPLM005
+
+UAS_KECERDASANBUATAN_
